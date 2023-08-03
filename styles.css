@@ -31,15 +31,7 @@ p{
         color: hsl(5, 85%, 63%);
     }
 
-    .MenuMobile{
-        display: none;
-    }
-
-    #Menu{
-        display: none;
-    }
-
-    #Mobile{
+    .MenuMobile,#Menu,#Mobile{
         display: none;
     }
     
